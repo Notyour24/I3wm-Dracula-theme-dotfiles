@@ -9,3 +9,5 @@ alias grep='grep --color=auto'
 alias vi='vim '
 PS1='\[\e[96m\]\w\n\[\e[0;1m\]>\[\e[0m\] '
 
+pfetch
+
